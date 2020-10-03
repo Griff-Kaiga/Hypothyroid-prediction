@@ -7,7 +7,11 @@ Hyperthyroidism is the abnormal function of your thyroid gland, an organ located
 
 The hormones produced by your thyroid gland are thyroxine (T4) and triiodothyronine (T3), and they play an important role in the way your entire body functions. For this reason, when they’re out-of-whack, it can have far-reaching effects on almost every aspect of your health.
 
+
 Technologies used
 
 The technologies used for this project were the various python libraries
+
+
+
 
